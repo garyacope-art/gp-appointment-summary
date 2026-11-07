@@ -20,6 +20,9 @@ A free, privacy-first web tool from **Heard and Charted** that helps people prep
 | `fonts.css` | Embedded, subset brand fonts |
 | `favicon.svg` | Logo mark |
 | `_headers` | Security headers for Cloudflare Pages |
+| `_redirects` | Short topic links, e.g. `/menopause` or `/prostate`, which open the tool with that topic's worked example |
+
+The tool works for any condition. On first visit it shows a general worked example, and visitors can switch to a topic-specific example (perimenopause, prostate and bladder, sleep, anxiety, endometriosis, Crohn's and colitis) or link straight to one with `?topic=`.
 
 ## Hosting
 
